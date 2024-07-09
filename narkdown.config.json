@@ -5,7 +5,6 @@
     "addMetadata": true,
     "appendCreatedTime": true,
     "generateSlug": true
-    "email":"unemallan@gmail.com"
   },
   "databaseConfig": {
     "categoryColumnName": "Category",
